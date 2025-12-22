@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision>=0.15.0
+pytorch_wavelets>=0.1.1
+opencv-python>=4.7.0.72
+numpy>=1.24.0
+scikit-image>=0.21.0
